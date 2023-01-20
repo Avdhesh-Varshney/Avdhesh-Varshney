@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avdhesh Varshney</h1>
 <h3 align="center">A young passionate 🤓 programmer from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://dxbcode.com/assets/images/index-meta.gif"/>
+<img align="right" alt="coding" width="360" src="https://dxbcode.com/assets/images/index-meta.gif"/>
 
 - 🌱 I’m currently exploring **Machine Learning, Artificial Intelligence**
 
