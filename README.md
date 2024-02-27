@@ -90,10 +90,6 @@
         <a href="https://linkedin.com/in/avdhesh-varshney-5314a4233"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <!-- X -->
         <a href="https://twitter.com/__Avdhesh__"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-        <!-- Discord -->
-        <a href='https://discord.gg/z34NCDEddG'><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
-        <!-- Slack -->
-        <a href='https://join.slack.com/t/codea2zhub/shared_invite/zt-2acisskvp-PIeXqmvaocnc7Z_ENRT1VQ'><img align="center" src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' alt='Slack' /></a>
         <!-- Instagram -->
         <a href="https://instagram.com/_._avdhesh_._"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
         <!-- YouTube -->
@@ -284,6 +280,38 @@
     <td>
       <a href="https://github.com/Avdhesh-Varshney/WebMasterLog">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Avdhesh-Varshney&repo=WebMasterLog&color=0e75b6&style=flat&theme=nightowl&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## :zap: My GitHub-Quine Stats 🖤
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Avdhesh">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/github?theme=dark" height="280em" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Avdhesh">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/dependencies?theme=dark" height="280em" alt="GitHub Dependencies" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Avdhesh">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=Avdhesh">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
       </a>
     </td>
   </tr>
