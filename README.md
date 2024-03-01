@@ -67,6 +67,14 @@
     <td>Code Peak'23</td>
     <td>🏅 Ranked 23rd out of 500+ participants, Top 100.</td>
   </tr>
+  <tr>
+    <td>KWOC'23</td>
+    <td>🥉 Ranked 3rd out of 1500+ participants, Top 100.</td>
+  </tr>
+  <tr>
+    <td>IWOC'23</td>
+    <td>🏅 Ranked 11th out of 1100+ participants, Top 100.</td>
+  </tr>
 </table>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -171,6 +179,9 @@
         <a href="https://github.com/Avdhesh-Varshney/Avdhesh-Varshney/assets/114330097/8f713b07-5203-4a15-92ef-a0b638c8b60c">
           <img alt="KWOC'23 - ML-ProjectKart" src="https://img.shields.io/badge/KWOC-ML%20ProjectKart-2ecc71?style=for-the-badge&logo=ubuntu&logoColor=white" />
         </a>
+        <!-- IWOC'24 -->
+        <a href="https://github.com/Avdhesh-Varshney/Avdhesh-Varshney/assets/114330097/f466ccdb-6abf-4edd-8133-fb9aa287606d">
+          <img alt="IWOC'24" src="https://img.shields.io/badge/IWOC-2962FF?style=for-the-badge&logo=ubuntu&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -267,22 +278,6 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-## :zap: Trending Repositories 😍
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Avdhesh-Varshney/AI-Tech">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Avdhesh-Varshney&repo=AI-Tech&color=0e75b6&style=flat&theme=nightowl&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Avdhesh-Varshney/WebMasterLog">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Avdhesh-Varshney&repo=WebMasterLog&color=0e75b6&style=flat&theme=nightowl&hide_border=true" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
