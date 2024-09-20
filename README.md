@@ -1,6 +1,9 @@
 ## Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
-#### ⚡️ My Special Projects 
+### ⚡️ My Special Projects 
+
+> 🔗 Tap the image to visit the deployed website. <br />
+> 📁 Tap the name tag to access the project repository.
 
 | [![Jarvis](https://github.com/user-attachments/assets/dd6ce951-c71c-4972-b83e-93c225acf2ef)](https://jarvis-ai-assistant.streamlit.app/) | [![Web Master Log](https://github.com/user-attachments/assets/c92c3de6-9704-4b74-a0e5-d66ca209e081)](https://web-master-log.vercel.app/) | [![online-payment-fraud-detection-model](https://github.com/user-attachments/assets/7028a1ab-2f93-4dbb-a187-f1c17b15d697)](https://online-payment-fraud-detector.streamlit.app/) |
 |:---:|:---:|:---:|
